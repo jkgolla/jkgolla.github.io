@@ -7,7 +7,7 @@ description:
 ---
 
 #### Journal
-Golla, J.K., Kuessner, M.L., Henehan, M.J., Bouchez, J., Rempe, D.M., Druhan, J.L. (2021). **The evolution of lithium isotope signatures in fluids draigning actively weathering hillslopes**, *Earth and Planetary Science Letters*, v. 567, 116988.  
+Golla, J.K., Kuessner, M.L., Henehan, M.J., Bouchez, J., Rempe, D.M., Druhan, J.L. (2021). **The evolution of lithium isotope signatures in fluids draining actively weathering hillslopes**, *Earth and Planetary Science Letters*, v. 567, 116988.  
 [[HTML](https://doi.org/10.1016/j.epsl.2021.116988){:target="\_blank"}] [[PDF](/assets/pdf/Golla_et_al_2021_EPSL.pdf){:target="\_blank"}] [[SUPP](/assets/pdf/Golla_et_al_2021_EPSL_Supp.pdf){:target="\_blank"}]
 
 #### Proceedings
