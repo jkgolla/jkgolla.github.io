@@ -1,0 +1,88 @@
+# Site settings
+title: Jon K. Golla # site title
+description: >- # site description
+  Personal academic webpage
+lang: en-US # default lang
+timezone: America/Chicago # set your timezone
+image: # This image used for Open Graph more info https://ogp.me/
+repo: # site repo [optional]
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Jon K. Golla # author name
+  bio: >- # tell to the world
+    PhD Student, <a href="https://geology.illinois.edu" target="_blank" rel="noopener">Department of Geology, University of Illinois at Urbana Champaign</a>
+    
+    <p>I study fluid-rock interactions in the Critical Zone. My current work uses reactive transport modeling of metal(loid) stable isotopes to unravel the biogeochemical and transport pathways that constitute weathering exports in hillslope catchments.</p>
+    
+    <p>I can be reached at <a href = "mailto:jgolla2@illinois.edu">jgolla2@illinois.edu</a>.</p>
+  username: jkgolla # general username
+  avatar: /assets/img/avatar.jpg # change with your own avatar
+
+# Social integration
+scholar_userid: 569367360547434339
+orcid_id: 0000-0002-2922-2315
+research_gate_profile: Jon_Golla
+
+# URL settings
+url: "https://klise.now.sh" #
+baseurl:
+permalink: /:title/
+google_analytics: UA-133422504-2
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+  - _pages
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+
+# Plugins
+plugins:
+  - jekyll-sitemap
