@@ -7,10 +7,9 @@ nav: true
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:640px; height:480px; display:none;"
+<div class="pa-carousel-widget" style="width: 100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/cC4iz2vGcJNcD9xJ7"
-  data-title="mga larawan"
-  data-description="20 new photos · Album by Jon Golla">
+  data-title="mga larawan">
   <object data="https://lh3.googleusercontent.com/qseR-v-EucnVNC7_c_kXCkGCZuTOMt-QpAP-GYaa45i5xQs1w5LHZ8NqHKRqXRTgY4HzPLwj1p0Z9XlJ8EswlXI5mGtgiGDM4m5AM8pv7zFDuwFQW8XWhvJLnFAIfPM7JmZvXBqPSQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/7fg5qG6NwdwcBJwqSY71I7QybpirnV70-3mQX03V0JKLNNCtEjttQVG5x0KjzKtghdsliNHioWt5FSuTX8lh1maplxFeCMJIb9Zslm_nsoqYq8nO-fGDHlWXF5JXkSNZ6yS96kxL4A=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/jROJGOI5o8JVT71Y0Vklfzb8V6UdWGknAz-8inIiX7mu-mZ4apa9GdkPe0ylzLprxCWjPExOXjKlMj37nLgPJW4PIFq6NujQZtcOKO0Bv7HVgD2tB3CHtgfHEh7rezKIqx7NZ4T6XA=w1920-h1080"></object>
